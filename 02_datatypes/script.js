@@ -1,25 +1,25 @@
 console.log("jai shree ram");
 console.log("jai shree ram");
 
-//number datatypes
+// age is number 
 let age = 89;
 
-//boolean datatypes 
+//boolean
 let isHappy =true; 
 
-//strings datatypes
+//strings
 let lastName = "Yadav"; 
 
-//convert number into string
+// string conversion
 let empty = 100 + ''; 
 
-//converting into number datatypes
+// number conversion
 let ishappy = +true; 
 
-//bigInt datatype
+// bigInt
 const previouslyMaxSafeInteger = 9007199254740991n;
 
-//Symbol datatypes
+//symbol
 const sym1 = Symbol();
 const sym2 = Symbol("foo");
 const sym3 = Symbol("foo");
