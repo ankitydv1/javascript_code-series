@@ -1,0 +1,1 @@
+const name = 'see Variable how it works'
