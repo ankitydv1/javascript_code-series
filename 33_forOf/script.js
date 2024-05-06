@@ -30,3 +30,14 @@ const myObject = {
 for(const [key, value] of myObject){
     console.log(key,':-', value);
 }
+
+const myObjects = {
+      js : 'javascript',
+      cpp : 'c++',
+      rb: 'ruby'
+}
+
+for(const key in myObjects){
+    console.log(`${key} shortcut is for ${myObject}`)
+
+}
